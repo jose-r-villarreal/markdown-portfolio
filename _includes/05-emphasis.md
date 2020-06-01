@@ -1,4 +1,1 @@
-- **R programming**
-- Writing
-- Suture skills
-- Making my own *website*
+Amo a *habibti habibtin hermosin*
