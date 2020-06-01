@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+- Hiking
+- Reading
+ - I'm currently reading *The Stand* from Stephen King
+ -Chess
