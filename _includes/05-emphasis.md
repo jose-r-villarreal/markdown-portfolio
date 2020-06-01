@@ -1,0 +1,4 @@
+- **R programming**
+- Writing
+- Suture skills
+- Making my own *website*

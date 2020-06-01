@@ -1,0 +1,4 @@
+- Hiking
+- Reading
+ - I'm currently reading *The Stand* from Stephen King
+ -Chess
